@@ -13,7 +13,7 @@ void asciiArt(){
 ░           ░     ░ ░     ░ ░    ░░░ ░ ░   ░ ░    ░   ▒     ░░   ░      ░   ▒    ░░░ ░ ░   ░      ░ ░ ░ ▒  ░      ░     ░   ▒    ░        ░   ▒   
 ░ ░         ░  ░    ░  ░    ░  ░   ░         ░  ░     ░  ░   ░              ░  ░   ░                  ░ ░         ░         ░  ░              ░  ░
 ░                                                                                                                                                 
-                                                  by Lucas 'Astronaut' Pacheco - 2019
+                                                  by PacLucas - 2019
    )EOF");
 }
 
